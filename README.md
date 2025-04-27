@@ -20,4 +20,4 @@ I'm a passionate **Frontend Developer** specializing in **Vue.js (Options API)**
 
 ---
 
-**"Consistency and passion create great developers."**
+**Consistency and passion create great developers.**
