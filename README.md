@@ -9,8 +9,8 @@ I'm a passionate **Frontend Developer** specializing in **Vue.js (Options API)**
 
 ## Skills
 - Vue.js (Options API)
-- JavaScript (ES6+)
-- HTML5, CSS3, Bootstrap
+- JavaScript 
+- HTML5, CSS, Bootstrap
 - Git and GitHub
 - REST APIs integration
 
