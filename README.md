@@ -3,7 +3,7 @@
 I'm a passionate **Frontend Developer** specializing in **Vue.js (Options API)**.
 
 - 🌱 Currently working with **Vue 2/3** using **Options API**
-- 🔭 Building frontend projects with **JavaScript**, **HTML**, **CSS**, and **Vue.js**
+- 🔭 Building frontend projects with **JavaScript**, **HTML**, **CSS**, **Bootstrap**, **bootstrapVue**,and **Vue.js**
 - ✨ Interested in UI/UX design and creating responsive websites
 - ⚡ Fun fact: I enjoy learning new web technologies and improving my skills every day!
 
