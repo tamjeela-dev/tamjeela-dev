@@ -15,7 +15,7 @@ I'm a passionate **Frontend Developer** specializing in **Vue.js (Options API)**
 - REST APIs integration
 
 ## Let's Connect!
-- LinkedIn: [Coming Soon]
+- LinkedIn: www.linkedin.com/in/tamjeela-shabeer
 - Email: tamjeelashabeer@gmail.com
 
 ---
